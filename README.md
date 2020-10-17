@@ -13,4 +13,4 @@ This application requires the following to be installed
 
 ### <u>Description</u>
 This application uses Electron, javaScript and HTML to create an application. To run the application go to the directory containing this application and type the following command in the terminal.
-> ./main.js
+> <b>./main.js </b>
